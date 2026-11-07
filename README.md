@@ -1,6 +1,16 @@
 # Live the Word
 
-The web app, published with GitHub Pages at https://masonkuhr.github.io/live-the-word/
+The published web app behind https://livethewordapp.com (GitHub Pages).
 
-- Everything except `bible/` is built from the Live the Word app on Buildercult (project hidden-word-0eb3). Don't edit it here; change the app and publish again.
-- `bible/rv1909/` holds the Reina-Valera 1909 Spanish Bible (public domain), one JSON file per chapter (book number 1-66 / chapter). The app's Bible reader loads it through jsDelivr.
+Copyright (c) 2026 Mason Kuhr. All rights reserved. The app's code, design, artwork (including the dove and the
+burning bush), lesson content and translations are not licensed for reuse. You may not copy, modify, redistribute or
+publish them, in whole or in part, without written permission. This repository only holds the compiled site; the
+source is private.
+
+Exceptions (their own licenses apply, and they are credited inside the app):
+- `bible/rv1909/`: Reina-Valera 1909 Spanish Bible, public domain.
+- `bible/irv-hi/` and `bible/irv-bn/`: Indian Revised Version (Hindi and Bengali), (c) Bridge Connectivity Solutions,
+  CC BY-SA 4.0, cross-references removed (Bengali: a few spelling slips fixed).
+- Verse text from the King James Version and the World English Bible (public domain).
+
+Contact: livethewordapp@gmail.com
